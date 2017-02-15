@@ -1,0 +1,16 @@
+{
+  "name": "nested-mongoose-models",
+  "version": "1.0.0",
+  "description": "TPractice working with nested Mongoose Schemas",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha team.model.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "mongoose": "^4.8.2"
+  }
+}
